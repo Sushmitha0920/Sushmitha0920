@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-I'm *Sushmitha Wickramarathne, a **3rd-year Computer Science undergraduate* at the *University of Colombo School of Computing (UCSC)*.
+I'm *Sushmitha Wickramarathne*, a *3rd-year Computer Science undergraduate* at the *University of Colombo School of Computing (UCSC)*.
 
 💡 Passionate about *Machine Learning* and *Generative AI*, with growing expertise in:  
 - 🌐 *Full-Stack Development*
