@@ -50,7 +50,7 @@ I'm **Sushmitha Wickramarathne**, a **3rd-year Computer Science undergraduate** 
   </a>
 </p>
 
-📱 *Contact:* +94 70 374 2503
+📱 *Contact:* +94 77 986 1371
 
 ---
 
