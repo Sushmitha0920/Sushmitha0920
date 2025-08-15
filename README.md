@@ -16,7 +16,7 @@ I'm *Sushmitha Wickramarathne*, a *3rd-year Computer Science undergraduate* at t
 - 🌐 *Full-Stack Development*
 - 📱 *Mobile App Development*
 
-📈 I Possess proven teamwork, leadership, and communication skills, honed through extensive involvement in sports, clubs, and
+📈 I possess proven teamwork, leadership, and communication skills, honed through extensive involvement in sports, clubs, and
  societies.
 
 ---
