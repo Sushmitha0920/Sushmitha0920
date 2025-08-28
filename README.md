@@ -12,7 +12,7 @@
 
 I'm **Sushmitha Wickramarathne**, a **3rd-year Computer Science undergraduate** at the **University of Colombo School of Computing (UCSC)**.
 
-💡 Passionate about *Machine Learning* and *Generative AI*, with growing expertise in:  
+💡 Passionate about *Business Analysis*, with growing expertise in:  
 - 🌐 **Full-Stack Development**
 - 📱 **Mobile App Development**
 
@@ -26,7 +26,7 @@ I'm **Sushmitha Wickramarathne**, a **3rd-year Computer Science undergraduate** 
 ### 🖥 Languages & Frameworks
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,java,mysql,dart,flutter,py,linux,scala,r,react,mongodb,nextjs,nodejs,javascript,express,php" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,java,mysql,dart,reactnative,flutter,py,linux,scala,r,react,mongodb,firebase,nextjs,nodejs,javascript,typescript,express,php" />
   </a>
 </p>
 
